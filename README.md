@@ -26,8 +26,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ayagamal" target="_blank"><img src="https://img.shields.io/badge/-Aya%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/AyaGamal" target="_blank"><img src="https://img.shields.io/badge/-Aya%20Gamal-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="www.linkedin.com/in/ayagamalpro" target="_blank"><img src="https://img.shields.io/badge/-Aya%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="(https://www.facebook.com/share/1Eq2sCvbae/" target="_blank"><img src="https://img.shields.io/badge/-Aya%20Gamal-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
