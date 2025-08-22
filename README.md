@@ -1,17 +1,19 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <p align="center">
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;Software+Testing+Specialist;V2P+and+IoT+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h2 align="center">
-  Welcome to Aya Gamal's Profile! 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<h1 align="center">Welcome to Aya Gamal's Profile! 👋</h1>
+<h3 align="center">Embedded Systems & Software Testing Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded%20Software%20Engineer;Software%20Testing%20Engineer;Always%20learning%20new%20technologies!&font=Fira%20Code&center=true&width=500&height=45&color=F75C7E&vCenter=true&size=22">
+  <a href="https://www.linkedin.com/in/ayagamalpro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ayagamal87eg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/aya-gamal-taha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt GitHub">
   </a>
 </p>
 
@@ -19,74 +21,87 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Education**: Faculty of Engineering, Electronics and Communication – Al Azhar University.  
-- 💼 **Volunteer**: IEEE Al Azhar University Team  
-- 🧠 **Roles**:  
-  - Embedded Software Engineer  
-  - Software Testing Engineer *(Manual + Automation)*  
-- 🌐 **Fields of Interest**: Embedded Systems, IoT, ARM Cortex-M, RTOS, Testing Frameworks  
-- 📚 **Currently Learning**: STM32 Advanced Programming, RTOS, Selenium & TestNG  
-- ☕ **Fun Fact**: A strong coffee = a strong debug session 😉  
-- 🚀 **Motivated By**: Creating real-world tech solutions with microcontrollers and testing them reliably!
+I am a results-driven Communications and Electronics Engineering student with hands-on experience in **embedded systems design**, **digital electronics**, and **software testing**. My expertise spans across:
+
+- 🎓 **Education**: Bachelor's Degree in Communications and Electronics Engineering - Al-Azhar University (Expected 2025)
+- 🔧 **Embedded Development**: Proficient in programming STM32, ATmega32, and ARM Cortex-M microcontrollers
+- 🧪 **Software Testing**: Experienced in manual and automated testing using Selenium, TestNG, and performance testing tools
+- 📱 **IoT Solutions**: Skilled in developing end-to-end IoT applications from sensor interfacing to cloud integration
+- 👥 **Leadership**: Vice Head of Embedded Systems Subcommittee at IEEE Al-Azhar University Branch
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-5C2D91?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🔧 Embedded Systems
-![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics&logoColor=blue)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)
-![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=verilog&logoColor=FF0000)
+### Microcontrollers & Platforms
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ATmega32](https://img.shields.io/badge/ATmega32-1E6DB3?style=for-the-badge&logo=arduino&logoColor=white)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🧪 Software Testing
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-05122A?style=flat&logo=testing-library&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&logoColor=43B02A)
-![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=testng&logoColor=white)
+### Communication Protocols
+![UART](https://img.shields.io/badge/UART-7E57C2?style=for-the-badge&logo=serial&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-757575?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-4FC3F7?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-E65100?style=for-the-badge)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Keil](https://img.shields.io/badge/-Keil-05122A?style=flat&logo=keil&logoColor=5C2D91)
-![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics&logoColor=00A6E0)
-![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=proteus&logoColor=00A0E3)
+### Development Tools
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00A0E3?style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-5C2D91?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ---
 
-## 📬 Connect with Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayagamalpro" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aya-gamal-taha&show_icons=true&theme=radical" alt="Aya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aya-gamal-taha&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-gamal-taha&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayagamalpro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/share/1Eq2sCvbae/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="mailto:ayagamal87eg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/aya-gamal-taha" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/aya-gamal-taha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 📌 Current Focus
-
-- ⚙️ Building RTOS-based embedded applications  
-- 🧪 Automating software testing workflows using Selenium & Java  
-- 📡 Exploring IoT protocols & device-to-cloud integration  
-- 🧠 Improving test-driven development mindset
-
----
-
-> “Build it. Test it. Trust it.” 🔧✅
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aya-gamal-taha&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center"> 
+  <i>"Engineering is the art of turning science into practical solutions that improve lives."</i>
 </p>
