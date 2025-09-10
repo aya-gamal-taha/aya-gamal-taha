@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;Software+Testing+Specialist;V2P+and+IoT+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;Software+Testing+Specialist" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to Aya Gamal's Profile! 👋</h1>
